@@ -17,11 +17,9 @@
 
 I am **Guneet Singh**, an aspiring software developer, a blogger and an open source enthusiast.I have a passion of Learning new stuff everyday and sharing my knowldege among other fellowmates.Feel free to contact me on my social handles or [mail me](mailto:guneetsinghtuli@gmail.com). You can also subscribe to my newsletter where i share amazing stuff every monday for you to enjoy, I won't spam in your inbox don't worry
 
----
 
-## Github Stats
 
-[![Guneet Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guneetsinghtuli)]
+![Guneet Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guneetsinghtuli)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guneetsinghtuli&layout=compact)] -->
 
