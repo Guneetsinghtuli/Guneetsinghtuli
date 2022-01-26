@@ -14,7 +14,6 @@
 <br> <br>
 </div>
 
-
 <div style="display:flex;gap:3px;">
 
 <div style="border:2px solid white;">
@@ -31,7 +30,7 @@
 <div style="border:2px solid white;">
 <h3>If you want to know more about me</h3>
 <ul>
-    <li>My favourate language is JavaScript and Java <li>
+    <li>My favourate language is JavaScript and Java </li>
     <li>Currently learning DSA in Java but it is boring </li>
     <li>Will soon learn kubernetes</li>
     <li>Currently working on an Open Source project free-news-api</li>
@@ -41,13 +40,11 @@
 <div style="border:2px solid white;">
 
 <h3>If you want some guidance</h3>
-<h3>First of all I really like guiding people</h3>
-<p>and if you are also looking for some guidance you can contact me or follow me on my socials </p>
+First of all I really like guiding people and if you are also looking for some guidance you can contact me or follow me on my socials
 
 </div>
 
 </div>
-
 <div>
 
 ## Tech Stack
