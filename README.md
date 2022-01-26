@@ -1,15 +1,3 @@
-<!--
-![Views](https://komarev.com/ghpvc/?username=Guneetsinghtuli)
-![Discord](https://img.shields.io/discord/774604960847101973?style=plastic)
-![GitHub followers](https://img.shields.io/github/followers/Guneetsinghtuli?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Guneetsingh02?style=social)
-![Code](https://img.shields.io/badge/Code-ReactJS-blue)
-![Code](https://img.shields.io/badge/Code-JavaScript-blue)
-![Code](https://img.shields.io/badge/Code-Java-blue)
-![Code](https://img.shields.io/badge/Code-C++-blue)
-![Code](https://img.shields.io/badge/OS-MacOS-blue)
-![Code](https://img.shields.io/badge/OS-Linux-blue) -->
-
 <div style="text-align:center"> <h1>Guneet Singh</h1><p>Thank You for visting my profile 👋</p> 
 <a href="https://www.linkedin.com/in/guneetsinghtuli/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -60,8 +48,6 @@
 
 </div>
 
-
-
 <div>
 
 ## Tech Stack
@@ -72,7 +58,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
 
 ### Databases
 
@@ -92,10 +77,6 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
-
-<!-- ![Guneet Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guneetsinghtuli) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guneetsinghtuli&layout=compact)] -->
 
 <div style="border:2px solid grey; margin:5px; padding:8px;">
 
