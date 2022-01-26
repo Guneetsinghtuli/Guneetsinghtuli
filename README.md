@@ -80,6 +80,11 @@ First of all I really like guiding people and if you are also looking for some g
 ## 📕 StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Guneet singh for How to create ExpressJS PDF Template &#39;if statements&#39;](https://stackoverflow.com/questions/70638073/how-to-create-expressjs-pdf-template-if-statements/70642427#70642427)
+- [Answer by Guneet singh for Express Js : Multer upload files last file missing](https://stackoverflow.com/questions/70589525/express-js-multer-upload-files-last-file-missing/70589755#70589755)
+- [Answer by Guneet singh for &lpar;Reason: CORS header ‘Access-Control-Allow-Origin’ missing&rpar;. Status code: 204](https://stackoverflow.com/questions/70582276/reason-cors-header-access-control-allow-origin-missing-status-code-204/70583356#70583356)
+- [Answer by Guneet singh for Disable next button while API data is fetching- DataGrid Material UI](https://stackoverflow.com/questions/70562121/disable-next-button-while-api-data-is-fetching-datagrid-material-ui/70562632#70562632)
+- [Answer by Guneet singh for Create React component that receive &quot;props&quot; that contains attribute &quot;message&quot;](https://stackoverflow.com/questions/70562363/create-react-component-that-receive-props-that-contains-attribute-message/70562540#70562540)
 <!-- STACKOVERFLOW:END -->
 
 </div>
