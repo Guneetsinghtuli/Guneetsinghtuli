@@ -21,7 +21,6 @@
     <ul>
     <li>I have been into development from past more than 2 years</li>
     <li>I am currently looking for intership/part-time opportunities, comfortable with both remote and on-site </li>
-    <li>Currently i don't have any experience working with a company except college socities but i have experience working with code</li>
     <li>I am studying in IP University</li>
     <li>You can also have a look at my Resume </li>
     </ul>
@@ -32,7 +31,7 @@
 <ul>
     <li>My favourate language is JavaScript and Java </li>
     <li>Currently learning DSA in Java but it is boring </li>
-    <li>Will soon learn kubernetes</li>
+    <li>Playing with kubernetes</li>
     <li>Currently working on an Open Source project free-news-api</li>
 </ul>
 
