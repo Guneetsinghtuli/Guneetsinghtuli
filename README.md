@@ -1,89 +1,52 @@
-<div style="text-align:center"> <h1>Guneet Singh</h1><p>Thank You for visting my profile 👋</p> 
-<a href="https://www.linkedin.com/in/guneetsinghtuli/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
-<a href="mailto:guneetsinghtuli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
-</a>
-<a href="https://twitter.com/Guneetsingh02">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
-</a>
-<a href="https://medium.com/@guneetsinghtuli">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<br> <br>
-</div>
+<!-- Add the sunrise photo here -->
+<img src="sunrise.jpg" alt="Sunrise" width="100%" height="200px" style="object-fit: cover">
 
-<div style="display:flex;gap:3px;">
+# Hi there, I'm Guneet Singh! 👋
 
-<div style="border:2px solid white;">
-    <h3>If you want to hire me</h3>
-    <ul>
-    <li>I have been into development from past more than 2 years</li>
-    <li>I am currently looking for intership/part-time opportunities, comfortable with both remote and on-site </li>
-    <li>I am studying in IP University</li>
-    <li>You can also have a look at my Resume </li>
-    </ul>
-</div>
+Welcome to my colorful corner of the GitHub universe! 🌌✨ Aspiring to paint the world with lines of code, I'm a passionate software developer on a journey to create magic through technology. ✨🚀
 
-<div style="border:2px solid white;">
-<h3>If you want to know more about me</h3>
-<ul>
-    <li>My favourate language is JavaScript and Java </li>
-    <li>Currently learning DSA in Java but it is boring </li>
-    <li>Playing with kubernetes</li>
-    <li>Currently working on an Open Source project free-news-api</li>
-</ul>
 
-</div>
-<div style="border:2px solid white;">
 
-<h3>If you want some guidance</h3>
-First of all I really like guiding people and if you are also looking for some guidance you can contact me or follow me on my socials
+## About Me
 
-</div>
+- 🎨 Coding Artist: I see software development as an art form, crafting elegant solutions with my favorite paintbrush—the keyboard! My canvas is the digital world, and I strive to create beautiful and functional applications.
+- 🚀 Exploring New Horizons: Constantly reaching for the stars, I'm on an adventure to explore the latest technologies and frameworks. I'm currently fascinated by the boundless universe of Spring Framework and the dynamic cosmos of React.js.
+- 🌱 Growing Garden of Knowledge: Just like a flourishing garden, I believe in nurturing my skills. I'm always learning, seeking to expand my expertise and cultivate new ideas.
+- 🎵 Rhythm of Java: Java is the rhythm that sets my code in motion. With its versatility and reliability, I create symphonies of software that resonate with efficiency and performance.
 
-</div>
-<div>
+## Current Quests
 
-## Tech Stack
+🏆 My current epic quest is to build **Tulip**, an ambitious compiler project in Java. This magical tool will take high-level code and transform it into powerful machine code, bridging the gap between imagination and reality. 🌷💻
 
-### Languages
+## Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+In my adventurous journey through the coding cosmos, I wield a variety of languages and tools, including:
 
-### Databases
+- ☕ Java - My mighty sword, empowering me to create robust and scalable applications.
+- 🌿 Spring Framework - A magical garden where I sow seeds of enterprise-level applications.
+- ⚛️ React.js - A constellation of interactivity and front-end enchantments.
+- 🌐 HTML, CSS, JavaScript - My palette for painting stunning user interfaces.
+- 🐙 Git - The compass guiding me through the seas of version control.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+## GitHub Stats
 
-### DevOps💙
+I've been busy crafting my repositories and adding stardust to the coding galaxy. Here's a glimpse of my GitHub journey:
 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+![Guneet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guneetsinghtuli&show_icons=true&theme=radical)
 
-### Frameworks and Libraries
+## Connect with Me
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+So, fellow cosmic wanderer, let's embark on this adventure together! Feel free to reach out to me via:
 
-</div>
+- 🌌 [LinkedIn](https://www.linkedin.com/in/guneetsinghtuli/): Let's connect and build a network of tech explorers!
+- 🐦 [Twitter](https://twitter.com/Guneetsingh02): Follow me on Twitter for some tech-infused tweets and cosmic inspirations.
 
-<div style="border:2px solid grey; margin:5px; padding:8px;">
+## Unlock the Magic
 
-## 📕 StackOverflow Activity
+Unleash the magic of code and unlock the secrets of the digital realm. Explore my repositories, where each project is a unique constellation in the vast sky of coding wonders. Let's create spells of innovation together! 🌟✨
 
-<!-- STACKOVERFLOW:START -->
-- [Answer by Guneet singh for How to create ExpressJS PDF Template &#39;if statements&#39;](https://stackoverflow.com/questions/70638073/how-to-create-expressjs-pdf-template-if-statements/70642427#70642427)
-- [Answer by Guneet singh for Express Js : Multer upload files last file missing](https://stackoverflow.com/questions/70589525/express-js-multer-upload-files-last-file-missing/70589755#70589755)
-- [Answer by Guneet singh for &lpar;Reason: CORS header ‘Access-Control-Allow-Origin’ missing&rpar;. Status code: 204](https://stackoverflow.com/questions/70582276/reason-cors-header-access-control-allow-origin-missing-status-code-204/70583356#70583356)
-- [Answer by Guneet singh for Disable next button while API data is fetching- DataGrid Material UI](https://stackoverflow.com/questions/70562121/disable-next-button-while-api-data-is-fetching-datagrid-material-ui/70562632#70562632)
-- [Answer by Guneet singh for Create React component that receive &quot;props&quot; that contains attribute &quot;message&quot;](https://stackoverflow.com/questions/70562363/create-react-component-that-receive-props-that-contains-attribute-message/70562540#70562540)
-<!-- STACKOVERFLOW:END -->
+---
 
-</div>
+README crafted with ❤️ by [Guneet Singh](https://github.com/Guneetsinghtuli) 🚀🎨
+
+> "In the universe of programming, we are the architects of reality." 🏗️🌌
