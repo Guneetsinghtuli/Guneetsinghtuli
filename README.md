@@ -1,5 +1,5 @@
 <!-- Add the sunrise photo here -->
-<img src="sunrise.jpg" alt="Sunrise" width="100%" height="200px" style="object-fit: cover">
+<img src="guneetsinghtuli.medium.com.png" alt="Sunrise" width="100%" height="200px" style="object-fit: cover">
 
 # Hi there, I'm Guneet Singh! 👋
 
